@@ -2,6 +2,9 @@
 Project 5, where Power BI's capabilities shine. As a member of EcoPower Logistics' development team, I'll create reports providing stakeholders with profound insights into order statuses and product sales. Utilizing Power BI Desktop and the Power BI Service, I'll transform data into accessible visuals, enhancing decision-making efficiency.
 This project aims to develop a Power BI report for EcoPower Logistics, offering comprehensive logistics solutions. The report will provide insights into various aspects of the business, including order monitoring, product monitoring, and customer monitoring.
 
+Branching Strategy
+I will use a version control strategy for tis project in order to efficiently manage the projects development process. This approach guarantees the main repository's stability while allowing me to work on new features and fixes at the same time.The brances will work as follows. Master: The stable version of the project will always be found in the master branch. It displays the current level of production readiness. Develop: The branch that will be used for continuous development will be develop branch, it will act as the integration branch. Before being merged into the master branch, it serves as the integration point for new features, bug fixes, and other improvements. Feature: Specific features or tasks will have their own feature branches. The develop branch gives rise to multiple feature branches, each of which focuses on a different feature. The feature will be finished and then merged back into the develop branch.
+
 ### Report Structure
 
 The report is organized into several pages:
