@@ -1,0 +1,57 @@
+1.maggiesMSFT (2023). Power BI documentation - Power BI. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/ [Accessed 21 Oct. 2023].
+2.https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/637225 (2023). Sources. [online] Microsoft.com. Available at: https://community.fabric.microsoft.com/t5/Desktop/Sources/m-p/3498934#M1157101 [Accessed 21 Oct. 2023].
+3.DougKlopfenstein (2023). Power Query M formula language reference - PowerQuery M. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/powerquery-m/ [Accessed 21 Oct. 2023].
+4.Minewiskan (2023). DAX function reference - DAX. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/dax/dax-function-reference [Accessed 21 Oct. 2023].
+5.dastaffo (2023). Power BI on Microsoft Learn. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/training/powerplatform/power-bi?WT.mc_id=powerbi_landingpage-docs-link [Accessed 21 Oct. 2023].
+6.Microsoft.com. (2023). Power BI Blog—Updates and News | Microsoft Power BI. [online] Available at: https://powerbi.microsoft.com/en-us/blog/ [Accessed 21 Oct. 2023].
+7.Powerbi.com. (2023). Microsoft Fabric. [online] Available at: https://app.powerbi.com/home?experience=power-bi [Accessed 21 Oct. 2023].
+8.Microsoft Power BI. (2023). YouTube. Available at: https://www.youtube.com/user/mspowerbi [Accessed 21 Oct. 2023].
+9.CMPG323 - IT Developments (2023). 12 October Project 5 Introduction. YouTube. Available at: https://www.youtube.com/watch?v=HrPipzMA5gk [Accessed 21 Oct. 2023].
+10.CMPG323 - IT Developments (2023). 12 October CMPG323 weekly virtual class Data Visualisation. YouTube. Available at: https://www.youtube.com/watch?v=gv58fGGgRQs [Accessed 21 Oct. 2023].
+11.Microsoft.com. (2016). Power BI Desktop—Interactive Reports | Microsoft Power BI. [online] Available at: https://powerbi.microsoft.com/en-us/desktop/ [Accessed 21 Oct. 2023].
+12.Microsoft.com. (2023). Power BI Embedded Analytics | Microsoft Azure. [online] Available at: https://azure.microsoft.com/en-us/products/power-bi-embedded/ [Accessed 21 Oct. 2023].
+13.Microsoft.com. (2021). Customer Stories | Microsoft Power BI Blog | Microsoft Power BI. [online] Available at: https://powerbi.microsoft.com/en-us/blog/tag/customer-stories/ [Accessed 21 Oct. 2023].
+14.https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/298275 (2021). How to use APIs as a data source? [online] Microsoft.com. Available at: https://community.fabric.microsoft.com/t5/Developer/How-to-use-APIs-as-a-data-source/m-p/1929601 [Accessed 21 Oct. 2023].
+15.X (formerly Twitter). (2023). Available at: https://twitter.com/MSPowerBI [Accessed 21 Oct. 2023].
+16.Dynamics Communities. (2022). Feed – Power Platform – Dynamics Communities. [online] Available at: https://dynamicscommunities.com/community/groups/power-platform/ [Accessed 21 Oct. 2023].
+17.Microsoft.com. (2018). Home. [online] Available at: https://ideas.fabric.microsoft.com/ [Accessed 21 Oct. 2023].
+18.edX. (2022). Best Online Power BI Courses and Programs. [online] Available at: https://www.edx.org/learn/power-bi [Accessed 21 Oct. 2023].
+19.@MSFT_Business. (2023). Microsoft Industry Clouds. [online] Available at: https://www.microsoft.com/en-us/industry?rtc=1 [Accessed 21 Oct. 2023].
+20.Powerbi.com. (2023). Microsoft Fabric. [online] Available at: https://app.powerbi.com/groups/me/apps?experience=power-bi [Accessed 21 Oct. 2023].
+21.Microsoft.com. (2023). Find the right app | Microsoft AppSource. [online] Available at: https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals&page=1&src=office&corrid=2ea449f3-21e8-f2df-cc2a-291ff642367c&omexanonuid=&referralurl= [Accessed 21 Oct. 2023].
+22.Powerbi.com. (2023). Power BI Playground. [online] Available at: https://playground.powerbi.com/en-us/ [Accessed 21 Oct. 2023].
+23.maggiesMSFT (2023). Power BI Report Server documentation - Power BI. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/report-server/ [Accessed 21 Oct. 2023].
+24.Microsoft.com. (2023). Themes Gallery. [online] Available at: https://community.fabric.microsoft.com/t5/Themes-Gallery/bd-p/ThemesGallery [Accessed 21 Oct. 2023].
+25.Openai.com. (2023). ChatGPT. [online] Available at: https://chat.openai.com/?model=text-davinci-002-render-sha [Accessed 21 Oct. 2023].
+26.Azure.com. (2023). Microsoft Azure. [online] Available at: https://portal.azure.com/#@nwuac.onmicrosoft.com/resource/subscriptions/271d9dfa-425e-40e8-a976-4c608b2ee92d/resourceGroups/rgCMPG323Projects/providers/Microsoft.Web/sites/EcopowerLogisticsAPI20230831033407/appServices [Accessed 21 Oct. 2023].
+27.GitHub. (2023). Tanyaradzwa-Mandizvidza/CMPG-323-Project-5---34486844: Project 5, where Power BI’s capabilities shine. As a member of EcoPower Logistics’ development team, I’ll create reports providing stakeholders with profound insights into order statuses and product sales. Utilizing Power BI Desktop and the Power BI Service, I’ll transform data into accessible visuals, enhancing decision-making efficiency. [online] Available at: https://github.com/Tanyaradzwa-Mandizvidza/CMPG-323-Project-5---34486844 [Accessed 26 Oct. 2023].
+
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
